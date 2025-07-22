@@ -1,0 +1,25 @@
+Agent pid 4158700
+Identity added: /home/stat/yihuihe/.ssh/id_ed25519 (yihuihe@upenn.edu)
+
+
+Martian Runtime - v4.0.12
+Serving UI at http://ip-10-152-33-191.ec2.internal:34673?auth=GdktwxbI8nyVuWKSufPRJs71ewaBKJQcXnJ4rUnH8-0
+
+Running preflight checks (please wait)...
+2025-02-26 11:38:52 [runtime] (ready)           ID.mkref_grna_dummy_ref.MAKE_REFERENCE._MAKE_REFERENCE
+2025-02-26 11:38:52 [runtime] (run:local)       ID.mkref_grna_dummy_ref.MAKE_REFERENCE._MAKE_REFERENCE.fork0.split
+2025-02-26 11:38:53 [runtime] (split_complete)  ID.mkref_grna_dummy_ref.MAKE_REFERENCE._MAKE_REFERENCE
+2025-02-26 11:38:53 [runtime] (run:local)       ID.mkref_grna_dummy_ref.MAKE_REFERENCE._MAKE_REFERENCE.fork0.join
+2025-02-26 11:38:55 [runtime] (join_complete)   ID.mkref_grna_dummy_ref.MAKE_REFERENCE._MAKE_REFERENCE
+
+Outputs:
+- reference: /home/stat/yihuihe/code/import-gasperini-2019/grna_dummy_ref/mkref_grna_dummy_ref/outs/reference
+
+Waiting 6 seconds for UI to do final refresh.
+Pipestance completed successfully!
+
+2025-02-26 11:39:01 Shutting down.
+Saving pipestance info to "mkref_grna_dummy_ref/mkref_grna_dummy_ref.mri.tgz"
+>>> Reference successfully created! <<<
+You can now specify this reference on the command line:
+cellranger count --transcriptome=grna_dummy_ref ...

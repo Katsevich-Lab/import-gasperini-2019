@@ -1,0 +1,26 @@
+Agent pid 4156382
+Identity added: /home/stat/yihuihe/.ssh/id_ed25519 (yihuihe@upenn.edu)
+
+
+Martian Runtime - v4.0.12
+Serving UI at http://ip-10-152-33-191.ec2.internal:36831?auth=QD_pH8-LMMnSEX8xdFJSd74D8baE6FTn7SdsqScQCDI
+
+Running preflight checks (please wait)...
+2025-02-26 11:29:50 [runtime] (ready)           ID.mkref_grna_dummy_ref.MAKE_REFERENCE._MAKE_REFERENCE
+2025-02-26 11:29:50 [runtime] (run:local)       ID.mkref_grna_dummy_ref.MAKE_REFERENCE._MAKE_REFERENCE.fork0.split
+2025-02-26 11:29:51 [runtime] (split_complete)  ID.mkref_grna_dummy_ref.MAKE_REFERENCE._MAKE_REFERENCE
+2025-02-26 11:29:51 [runtime] (run:local)       ID.mkref_grna_dummy_ref.MAKE_REFERENCE._MAKE_REFERENCE.fork0.join
+2025-02-26 11:29:52 [runtime] (failed)          ID.mkref_grna_dummy_ref.MAKE_REFERENCE._MAKE_REFERENCE
+
+[error] mkref has failed: error building reference package
+Error while parsing GTF file /home/mnt/weka/yihuihe/code/import-gasperini-2019/grna_dummy_ref/dummy_genes.gtf
+The supplied GTF file does not contain any exon features
+
+Please fix your GTF and start again.
+
+2025-02-26 11:29:52 Shutting down.
+Saving pipestance info to "mkref_grna_dummy_ref/mkref_grna_dummy_ref.mri.tgz"
+For assistance, upload this file to 10x Genomics by running:
+
+cellranger upload <your_email> "mkref_grna_dummy_ref/mkref_grna_dummy_ref.mri.tgz"
+

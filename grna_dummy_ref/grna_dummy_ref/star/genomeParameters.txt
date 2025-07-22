@@ -1,0 +1,16 @@
+### /home/mnt/weka/yihuihe/code/apps/cellranger-8.0.1/lib/bin/STAR   --runMode genomeGenerate   --runThreadN 1   --genomeDir /home/stat/yihuihe/code/import-gasperini-2019/grna_dummy_ref/mkref_grna_dummy_ref/MAKE_REFERENCE/_MAKE_REFERENCE/fork0/join-u74f6bf439c/files/reference/star   --genomeFastaFiles /home/stat/yihuihe/code/import-gasperini-2019/grna_dummy_ref/mkref_grna_dummy_ref/MAKE_REFERENCE/_MAKE_REFERENCE/fork0/join-u74f6bf439c/files/reference/fasta/genome.fa      --genomeSAindexNbases 2   --genomeChrBinNbits 7   --genomeSAsparseD 1   --limitGenomeGenerateRAM 17179869184   --sjdbGTFfile /home/stat/yihuihe/code/import-gasperini-2019/grna_dummy_ref/mkref_grna_dummy_ref/MAKE_REFERENCE/_MAKE_REFERENCE/fork0/join-u74f6bf439c/files/reference/genes/genes.gtf
+### GstrandBit 32
+versionGenome	2.7.1a
+genomeFastaFiles	/home/stat/yihuihe/code/import-gasperini-2019/grna_dummy_ref/mkref_grna_dummy_ref/MAKE_REFERENCE/_MAKE_REFERENCE/fork0/join-u74f6bf439c/files/reference/fasta/genome.fa 
+genomeSAindexNbases	2
+genomeChrBinNbits	7
+genomeSAsparseD	1
+sjdbOverhang	100
+sjdbFileChrStartEnd	- 
+sjdbGTFfile	/home/stat/yihuihe/code/import-gasperini-2019/grna_dummy_ref/mkref_grna_dummy_ref/MAKE_REFERENCE/_MAKE_REFERENCE/fork0/join-u74f6bf439c/files/reference/genes/genes.gtf
+sjdbGTFchrPrefix	-
+sjdbGTFfeatureExon	exon
+sjdbGTFtagExonParentTranscript	transcript_id
+sjdbGTFtagExonParentGene	gene_id
+sjdbInsertSave	Basic
+genomeFileSizes	256 1290

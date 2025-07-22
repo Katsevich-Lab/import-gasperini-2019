@@ -1,0 +1,17 @@
+{
+    "fasta_hash": "3daba16349367d6e9d4866b7fa3821d3c8f822bd",
+    "genomes": [
+        "grna_dummy_ref"
+    ],
+    "gtf_hash.gz": "96a9d1d6a959a1edcdf4ce289e16709a43135efe",
+    "input_fasta_files": [
+        "dummy_genome.fa"
+    ],
+    "input_gtf_files": [
+        "dummy_genes.gtf"
+    ],
+    "mem_gb": 16,
+    "mkref_version": "8.0.1",
+    "threads": 2,
+    "version": null
+}

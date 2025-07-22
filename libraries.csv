@@ -1,0 +1,3 @@
+fastqs,sample,library_type
+/home/mnt/weka/scratch/yihuihe/gasperini/raw/pilot/SRR7967487/fastqs/,bamtofastq,Gene Expression
+/home/mnt/weka/scratch/yihuihe/gasperini/raw/pilot/SRR7967493/fastqs/,bamtofastq,CRISPR Guide Capture

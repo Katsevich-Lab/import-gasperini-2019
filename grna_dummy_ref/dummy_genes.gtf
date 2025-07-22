@@ -1,0 +1,2 @@
+chrDummy	DUMMY	gene	1	150	.	+	.	gene_id "dummy_gene"; gene_name "dummy_gene";
+chrDummy	DUMMY	exon	1	150	.	+	.	gene_id "dummy_gene"; transcript_id "dummy_transcript"; exon_id "dummy_exon";
